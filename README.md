@@ -1,4 +1,5 @@
-1 - Scientific journals that are published jointly with or in cooperation with the Scientific Association for Environmental Education and Sustainable Development.Anthropogenic Pollution    
+1 - Scientific journals that are published jointly with or in cooperation with the Scientific Association for Environmental Education and Sustainable Development.
+1- Anthropogenic Pollution    
 https://oiccpress.com/ap 
 
 ![Ap coverl](https://github.com/user-attachments/assets/6ab98be9-b214-4ff4-aa04-d810a1264268)
